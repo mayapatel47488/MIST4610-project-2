@@ -18,7 +18,8 @@ We acquired our data from https://catalog.data.gov/dataset/2015-16-discipline-es
 
 -----------------------------------------------------------------------------------------------------------
 
-Question 1: Among English Language Learners, what is the relationship between English proficiency levels and the likelihood of receiving a school-related arrest?
+Question 1: What is the relationship between ELL students and their geographic location?
+
 
 Why is it interesting/important: 
 
